@@ -7,12 +7,14 @@ Each project includes problem formulation, data cleaning, exploratory data analy
 feature engineering, model building, and evaluation.
 
 ## Projects
-- **Customer Churn Prediction**
-  - Classification models (Logistic Regression, Random Forest, XGBoost)
-  - Feature engineering and model evaluation
-- **Sales Forecasting**
-  - Time series analysis using ARIMA and Prophet
-  - Forecast accuracy comparison
+- ** Budget Synergy & Redundency**
+- ** Customer Purchase prediction**
+- ** Iris Flower Classification**
+- ** Market Mix Modeling**
+- ** NYC Air bnb**
+- ** Random Forest Learning**
+- ** VIP Customers Predictor**
+- ** California House Price Prediction**
 
 ## Tools & Technologies
 - Python, Pandas, NumPy, Scikit-learn
